@@ -1,5 +1,3 @@
-- 👋 Hi, I’m Mussadiq Nazeer, student of Software Engineering in MAJU.
-- 👀 I’m interested in BackEnd Development & Data Science.
-- 🌱 I’m currently learning Data Science , Machine Learning , Deep Learning.
-- 💞️ I’m looking to collaborate on Data Science related Projects.
+- 👋 Hi, I’m Mussadiq Nazeer, a student of BS Software Engineering at Mohammad Ali Jinnah University, Karachi.
+- 👀 I’m interested in .NET Core Backend Development.
 - 📫 You can reach me at musaddiqnazeer4@gmail.com
